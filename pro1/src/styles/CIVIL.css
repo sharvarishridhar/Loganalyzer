@@ -1,0 +1,24 @@
+
+.buttoncivil button {
+    background-color: #ffffff00; 
+    border: none;
+    color: rgb(116, 147, 230); 
+    padding: 10px 580px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 19px; 
+    margin: 5px 20px; 
+    cursor: pointer; 
+    border-radius: 4px; 
+    }
+    .buttoncivil button:hover {
+      background-color:  rgba(146, 145, 145, 0.331);
+      cursor: pointer;
+      transition: 0.2s ease-in;
+      border: 2px solid #008CBA;
+    }
+    
+  
+  
+  

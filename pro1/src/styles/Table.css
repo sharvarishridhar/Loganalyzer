@@ -1,0 +1,26 @@
+.tableWrap {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table th,table td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px 40px;
+    font-size: larger;
+    color: blue;
+    background-color:lightsalmon;
+}
+
+
+
+
+
+table th,table td{
+    border: 2px solid black;
+}
+table{
+    border-collapse: collapse;
+}
